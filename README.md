@@ -1,10 +1,10 @@
-# Toca, toca
+# Toc, toc
 
 **Descarga**: [![Última versión](https://img.shields.io/github/release/KieronQuinn/TapTap.svg?maxAge=3600&label=download)](https://github.com/KieronQuinn/TapTap/releases)
 
 ---
 
-Toca, toca es una adaptación del gesto de doble toque en la parte trasera del dispositivo de los Pixel con Android 12 a cualquier dispositivo con Android 7.0 o superior*.
+Toc, toc es una adaptación del gesto de doble toque en la parte trasera del dispositivo de los Pixel con Android 12 a cualquier dispositivo con Android 7.0 o superior*.
 
 Tap, Tap ofrece más de 50 acciones que se pueden ejecutar con dos o tres toques en la parte trasera del dispositivo, incluyendo:
 
